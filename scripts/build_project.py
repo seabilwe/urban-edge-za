@@ -1,7 +1,7 @@
 """
-URBAN-EDGE ZA: the QGIS project, with a Temporal Controller timeline, and an animation of it.
+URBAN-EDGE ZA: the QGIS project, with a Temporal Controller timeline and an animation of it.
 
-Run in QGIS after analysis.py and urban_edge_layouts.py (which adds the four print layouts to the open project):
+Run in QGIS after running analysis.py and urban_edge_layouts.py (which adds the four print layouts to the open project):
 
     exec(open(r"<project>/scripts/build_project.py", encoding="utf-8").read()); build(); animate()
 
