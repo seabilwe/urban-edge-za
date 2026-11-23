@@ -39,7 +39,7 @@ scripts/make_gif.py          the animated GIF from the Temporal Controller frame
 
 Run the scripts in the QGIS Python console, in that order. Everything except `make_gif.py` uses only what ships with QGIS (GDAL, NumPy and PyQGIS); `make_gif.py` needs Pillow.
 
-**The web page.** It uses plain JavaScript with Leaflet. The browser recolours one image for each year, so the play button, slider, before-and-after swipe and click read-outs need no server.
+**The web page.** It uses plain JavaScript with Leaflet. The browser recolours one image for each year, so the play button, slider, before-and-after swipe, and click readouts need no server.
 
 ## Limits
 
