@@ -1,4 +1,4 @@
-"""Assemble the Temporal Controller frames (outputs/animation/frame0000.png ...) into an animated GIF with a year label.
+"""Assemble the Temporal Controller frames (outputs/animation/frame0000.png ...) into an animated GIF with the year as the label.
     python scripts/make_gif.py <frames folder> <output.gif> <fonts folder>"""
 import glob, sys
 from PIL import Image, ImageDraw, ImageFont
